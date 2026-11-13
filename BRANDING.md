@@ -1,10 +1,11 @@
 # Branding for this fork
 
-Provisional display name: **Hosted Monitoring**. The final product name is
-chosen by Blaine from the domain-checked shortlist. When he picks one, the
-rename is a single search and replace of the string "Hosted Monitoring"
-across this fork, plus the platform config (../platform/config.json) and
-the landing page.
+Product name: **DownForReal**, chosen by Blaine on 2026-11-13 from the
+domain-checked shortlist. Domain: downforreal.com. The name lives in one
+place per component: this fork (page title and setup screen), the shared
+config (../config.js), and the platform config (../platform/config.json).
+A future rename is a search and replace of the string "DownForReal" in
+those places plus the landing page.
 
 Rules that do not change with the name:
 - The product is never named "Uptime Kuma" and never implies official status.

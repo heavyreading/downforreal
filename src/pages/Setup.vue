@@ -4,7 +4,7 @@
             <form @submit.prevent="submit">
                 <div>
                     <object width="64" height="64" data="/icon.svg" />
-                    <div style="font-size: 28px; font-weight: bold; margin-top: 5px">Hosted Monitoring</div>
+                    <div style="font-size: 28px; font-weight: bold; margin-top: 5px">DownForReal</div>
                     <div style="font-size: 13px; opacity: 0.7">powered by Uptime Kuma</div>
                 </div>
 
